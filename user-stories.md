@@ -12,42 +12,42 @@
 - As a visitor, I want to read information about the Senior Procurement Consultant
   - design home page
   - design services page
-design about page
-implement home page layout
-implement services page layout
-implement about page layout
-As a visitor, I want to easily navigate to many resources through a useful links section
-design useful links page
-implement useful links page layout
-As a visitor, I want to be able to send a message to the consultant’s email through the website
-design contact page
-implement contact page layout
-set up contact to email functionality
-As a visitor, I want to open the website and navigate the pages seamlessly
-implement capacity for website to load under 2 seconds (for desktop)
-As a visitor, I want to open the website on desktop, tablet, and mobile phone and have a seamless experience
-redesign home page for tablet screens
-redesign home page for mobile screens
-redesign services page for tablet screens
-redesign services page for mobile screens
-redesign about page for tablet screens
-redesign about page for mobile screens
-redesign contact page for tablet screens
-redesign contact page for mobile screens
-redesign useful links page for tablet screens
-implement home page for tablet screens
-implement home page for mobile screens
-implement services page for tablet screens
-implement services page for mobile screens
-implement about page for tablet screens
-implement about page for mobile screens
-implement contact page for tablet screens
-implement contact page for mobile screens
-implement useful links page for tablet screens
-implement useful links page for mobile screens
-As an admin, I want to be able to log in with a password and have an elevated level of privilege
-implement user authentication system with a secure login
-implement capacity to see hidden pages
-As an admin, I want to be able to add content to the website without needing the developer
-lay out clear instructions to easily add content without developer
-(optionally) set up CMS or other system to allow easy editing
+  - design about page
+  - implement home page layout
+  - implement services page layout
+  - implement about page layout
+- As a visitor, I want to easily navigate to many resources through a useful links section
+  - design useful links page
+  - implement useful links page layout
+- As a visitor, I want to be able to send a message to the consultant’s email through the website
+  - design contact page
+  - implement contact page layout
+  - set up contact to email functionality
+- As a visitor, I want to open the website and navigate the pages seamlessly
+  - implement capacity for website to load under 2 seconds (for desktop)
+- As a visitor, I want to open the website on desktop, tablet, and mobile phone and have a seamless experience
+  - redesign home page for tablet screens
+  - redesign home page for mobile screens
+  - redesign services page for tablet screens
+  - redesign services page for mobile screens
+  - redesign about page for tablet screens
+  - redesign about page for mobile screens
+  - redesign contact page for tablet screens
+  - redesign contact page for mobile screens
+  - redesign useful links page for tablet screens
+  - implement home page for tablet screens
+  - implement home page for mobile screens
+  - implement services page for tablet screens
+  - implement services page for mobile screens
+  - implement about page for tablet screens
+  - implement about page for mobile screens
+  - implement contact page for tablet screens
+  - implement contact page for mobile screens
+  - implement useful links page for tablet screens
+  - implement useful links page for mobile screens
+- As an admin, I want to be able to log in with a password and have an elevated level of privilege
+  - implement user authentication system with a secure login
+  - implement capacity to see hidden pages
+- As an admin, I want to be able to add content to the website without needing the developer
+  - lay out clear instructions to easily add content without developer
+  - (optionally) set up CMS or other system to allow easy editing
