@@ -1,6 +1,5 @@
 # Possible Future Requirements - Functional and Nonfunctional
-
-Below describes possible future functional and nonfunctional requirements which were not included above. These lists were separated as the following may change over time. This keeps the process agile and flexible.
+Below describes possible future functional and nonfunctional requirements which were not included in the current-requirements.md file. These lists were separated as the following may change over time. This keeps the process agile and flexible.
 
 # Functional
 The system shall…
