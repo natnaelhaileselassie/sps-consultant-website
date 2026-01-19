@@ -9,4 +9,4 @@ This is a project documenting my process to build a personal portfolio website f
   - current-requirements
   - possible-future-requirements
 - user-stories
-- github project (contains kanban board)
+The attached github project contains the kanban board
