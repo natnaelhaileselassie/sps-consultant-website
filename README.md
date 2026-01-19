@@ -8,5 +8,5 @@ This is a project documenting my process to build a personal portfolio website f
 - requirements folder
   - current-requirements
   - possible-future-requirements
-- user-stories
+- user-stories  
 The attached github project contains the kanban board
