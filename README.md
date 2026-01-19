@@ -1,4 +1,4 @@
-# senior-procurement-specialist-consultant-website
+# sps-consultant-website
 Website for a Senior Procurement Specialist Consultant
 
 # Project Overview
