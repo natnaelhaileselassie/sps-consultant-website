@@ -1,4 +1,4 @@
-# Requirements - Functional and Nonfunctional
+# Requirements
 Below describes current functional and nonfunctional requirements.
 
 # Functional
