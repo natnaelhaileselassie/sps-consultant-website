@@ -6,6 +6,8 @@ This is a project documenting my process to build a personal portfolio website f
 
 # Project Structure
 This github repository:
+- meeting notes
+  - initial-meeings
 - requirements folder
   - current-requirements
   - possible-future-requirements
