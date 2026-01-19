@@ -11,4 +11,4 @@ This github repository:
   - possible-future-requirements
 - user-stories
   
-The attached github project contains the kanban board
+The github project contains the kanban board
